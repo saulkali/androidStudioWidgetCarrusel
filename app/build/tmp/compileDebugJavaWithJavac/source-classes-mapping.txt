@@ -1,0 +1,7 @@
+com/practica2/practica4wiidgetautomatico/widget.java
+ com.practica2.practica4wiidgetautomatico.widget
+com/practica2/practica4wiidgetautomatico/BuildConfig.java
+ com.practica2.practica4wiidgetautomatico.BuildConfig
+com/practica2/practica4wiidgetautomatico/MainActivity.java
+ com.practica2.practica4wiidgetautomatico.MainActivity
+ com.practica2.practica4wiidgetautomatico.MainActivity$1
